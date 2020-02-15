@@ -6,4 +6,5 @@ pen
 pencil
 paper clips
 stapler
-sticky notes
+sharpeners
+thumb tacks
